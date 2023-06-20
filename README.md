@@ -1,4 +1,4 @@
-# This source was recovered from archive.org, full source code of the original application can be browsed from https://github.com/xeffyr/android-vshell-archive from the original author of this project
+# This source was recovered from archive.org, xeffyr is the original author of this project
 
 # vShell
 
