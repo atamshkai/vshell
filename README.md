@@ -1,5 +1,3 @@
-# This source was recovered from archive.org, xeffyr is the original author of this project
-
 # vShell
 
 > vShell is an example of how Android terminal apps can look like after
@@ -108,3 +106,7 @@ from source, then refer to README in [./native-packages](./native-packages/READM
 - [QEMU](https://qemu.org): A generic machine emulator and virtualizer.
 - [Alpine Linux](https://alpinelinux.org/): A lightweight Linux distribution built
   on Musl libc and Busybox.
+
+## Download
+
+[](https://github.com/sylirre/vmConsole/releases/download/v2.1.0/vmConsole-2.1.0-release.apk)
