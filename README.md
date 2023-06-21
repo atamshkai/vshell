@@ -109,4 +109,4 @@ from source, then refer to README in [./native-packages](./native-packages/READM
 
 ## Download
 
-[](https://github.com/sylirre/vmConsole/releases/download/v2.1.0/vmConsole-2.1.0-release.apk)
+[Download Here](https://github.com/sylirre/vmConsole/releases/download/v2.1.0/vmConsole-2.1.0-release.apk)
